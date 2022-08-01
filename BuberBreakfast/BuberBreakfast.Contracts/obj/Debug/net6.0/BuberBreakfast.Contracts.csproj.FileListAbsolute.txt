@@ -1,0 +1,12 @@
+/run/media/qq/qq2/Dev/dotnet_projects/BuberBreak/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net6.0/BuberBreakfast.Contracts.deps.json
+/run/media/qq/qq2/Dev/dotnet_projects/BuberBreak/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net6.0/BuberBreakfast.Contracts.dll
+/run/media/qq/qq2/Dev/dotnet_projects/BuberBreak/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net6.0/ref/BuberBreakfast.Contracts.dll
+/run/media/qq/qq2/Dev/dotnet_projects/BuberBreak/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net6.0/BuberBreakfast.Contracts.pdb
+/run/media/qq/qq2/Dev/dotnet_projects/BuberBreak/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/BuberBreakfast.Contracts.csproj.AssemblyReference.cache
+/run/media/qq/qq2/Dev/dotnet_projects/BuberBreak/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/BuberBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/qq/qq2/Dev/dotnet_projects/BuberBreak/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/BuberBreakfast.Contracts.AssemblyInfoInputs.cache
+/run/media/qq/qq2/Dev/dotnet_projects/BuberBreak/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/BuberBreakfast.Contracts.AssemblyInfo.cs
+/run/media/qq/qq2/Dev/dotnet_projects/BuberBreak/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/BuberBreakfast.Contracts.csproj.CoreCompileInputs.cache
+/run/media/qq/qq2/Dev/dotnet_projects/BuberBreak/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/BuberBreakfast.Contracts.dll
+/run/media/qq/qq2/Dev/dotnet_projects/BuberBreak/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/ref/BuberBreakfast.Contracts.dll
+/run/media/qq/qq2/Dev/dotnet_projects/BuberBreak/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/BuberBreakfast.Contracts.pdb
