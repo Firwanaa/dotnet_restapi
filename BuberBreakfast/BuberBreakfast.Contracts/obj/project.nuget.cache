@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JU/xmJ9/6SkOB4xYGJtlzfxITVNLWD8U3VCzbRGAtLPHB68Er5cpsuWdAsbsiRWQsQOB98vS/mPdt67vX0Sq5g==",
+  "success": true,
+  "projectFilePath": "/run/media/qq/qq2/Dev/dotnet_projects/BuberBreak/BuberBreakfast/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj",
+  "expectedPackageFiles": [
+    "/home/qq/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
