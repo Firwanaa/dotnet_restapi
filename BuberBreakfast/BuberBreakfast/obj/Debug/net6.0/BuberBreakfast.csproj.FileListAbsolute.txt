@@ -22,3 +22,4 @@
 /run/media/qq/qq2/Dev/dotnet_projects/BuberBreak/BuberBreakfast/BuberBreakfast/obj/Debug/net6.0/ref/BuberBreakfast.dll
 /run/media/qq/qq2/Dev/dotnet_projects/BuberBreak/BuberBreakfast/BuberBreakfast/obj/Debug/net6.0/BuberBreakfast.pdb
 /run/media/qq/qq2/Dev/dotnet_projects/BuberBreak/BuberBreakfast/BuberBreakfast/obj/Debug/net6.0/BuberBreakfast.genruntimeconfig.cache
+/run/media/qq/qq2/Dev/dotnet_projects/BuberBreak/BuberBreakfast/BuberBreakfast/bin/Debug/net6.0/ErrorOr.dll

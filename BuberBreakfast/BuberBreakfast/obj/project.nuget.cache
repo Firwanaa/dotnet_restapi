@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qNdgB3H62C34/ucRBIBTcjkvOGi7R/0pW13BLB5LiPEDZfcU+pS/g/7MvvdCAp/GZIHShGIbHdriKExSR4JrqQ==",
+  "dgSpecHash": "r+hmF2HGZKAYbZAT44Epe4QUFlSuEZro/fGPAQb0LE+2YNXGjmbLssVFcaWwnXxCBCy25S9UUDFlfCTxbDfWyQ==",
   "success": true,
   "projectFilePath": "/run/media/qq/qq2/Dev/dotnet_projects/BuberBreak/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
   "expectedPackageFiles": [
+    "/home/qq/.nuget/packages/erroror/0.2.0/erroror.0.2.0.nupkg.sha512",
     "/home/qq/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
   ],
   "logs": []

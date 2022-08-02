@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "ErrorOr/0.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/ErrorOr.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/ErrorOr.dll": {}
+        }
+      },
       "BuberBreakfast.Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -15,6 +24,20 @@
     }
   },
   "libraries": {
+    "ErrorOr/0.2.0": {
+      "sha512": "wTEdBKVSFX2Lm6SvARPrjM4d3ptzBuxmpDlWHV49N8ULzf+VDWGoGSTIxhh0bEc6EYcanb3iFI9CQTpMJ5qYSg==",
+      "type": "package",
+      "path": "erroror/0.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "erroror.0.2.0.nupkg.sha512",
+        "erroror.nuspec",
+        "icon-square.png",
+        "lib/net6.0/ErrorOr.dll",
+        "lib/net6.0/ErrorOr.xml"
+      ]
+    },
     "BuberBreakfast.Contracts/1.0.0": {
       "type": "project",
       "path": "../BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj",
@@ -23,7 +46,8 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "BuberBreakfast.Contracts >= 1.0.0"
+      "BuberBreakfast.Contracts >= 1.0.0",
+      "ErrorOr >= 0.2.0"
     ]
   },
   "packageFolders": {
@@ -66,6 +90,12 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "ErrorOr": {
+            "target": "Package",
+            "version": "[0.2.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

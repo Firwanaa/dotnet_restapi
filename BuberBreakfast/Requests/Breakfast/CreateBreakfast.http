@@ -16,3 +16,7 @@ Content-Type: application/json
         "Cookie"
     ]
 }
+
+
+###
+GET https://localhost:7215/Breakfasts/5b885436-eb00-49a9-bd3f-fdaeb77d1b59
