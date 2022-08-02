@@ -8,6 +8,6 @@ namespace BuberBreakfast.Services.Breakfasts
                 ErrorOr<Created> CreateBreakfast(Breakfast breakfast);
 		ErrorOr<Deleted>  DeleteBreakfast(Guid id);
 		ErrorOr<Breakfast> GetBreakfast(Guid id);
-		ErrorOr<Updated> UpdateBreakfast(Breakfast breakfast);
+		ErrorOr<UpsertedBreakfast> UpdateBreakfast(Breakfast breakfast);
 	}
 }
